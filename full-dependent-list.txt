@@ -1,0 +1,9 @@
+{"dependency_type":"metadata","from_file_path":"C:\\Users\\GHI\\docfx_project\\api\\index.md","to_file_path":"C:\\Users\\GHI\\docfx_project\\api\\toc.yml"}
+{"dependency_type":"file","from_file_path":"C:\\Users\\GHI\\docfx_project\\api\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\api\\index.md"}
+{"dependency_type":"metadata","from_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\intro.md","to_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\toc.yml"}
+{"dependency_type":"file","from_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\intro.md"}
+{"dependency_type":"metadata","from_file_path":"C:\\Users\\GHI\\docfx_project\\index.md","to_file_path":"C:\\Users\\GHI\\docfx_project\\toc.yml"}
+{"dependency_type":"file","from_file_path":"C:\\Users\\GHI\\docfx_project\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\api\\index.md"}
+{"dependency_type":"include","from_file_path":"C:\\Users\\GHI\\docfx_project\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\api\\toc.yml"}
+{"dependency_type":"file","from_file_path":"C:\\Users\\GHI\\docfx_project\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\intro.md"}
+{"dependency_type":"include","from_file_path":"C:\\Users\\GHI\\docfx_project\\toc.yml","to_file_path":"C:\\Users\\GHI\\docfx_project\\articles\\toc.yml"}
